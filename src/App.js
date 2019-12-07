@@ -10,7 +10,7 @@ function App() {
 <a-entity line="start: 0, 1, 0; end: 2 0 -5; color: red"
           line__2="start: -2, 4, 5; end: 0 4 -3; color: green"></a-entity>
        
-  <a-entity gltf-model="scene.gltf" scale="0.1 0.1 0.1" position="0 1 -1" rotation="0 0 0" rotate-on-click="_animate: true;" >
+  <a-entity gltf-model="./scene.gltf" scale="0.1 0.1 0.1" position="0 1 -1" rotation="0 0 0" rotate-on-click="_animate: true;" >
     
        <a-animation 
                     begin="rotateModel"
