@@ -2,8 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+// import EventHandling from "./EventHandling"
 import * as serviceWorker from './serviceWorker';
-import 'react-app-polyfill/stable';
+// import 'react-app-polyfill/stable';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 

@@ -124,12 +124,12 @@
   "buffers": [
     {
       "byteLength": 538176,
-      "uri": "scene.bin"
+      "uri": "./scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "01_-_Default_baseColor.jpg"
+      "uri": "./bloodtexture.jpg"
     }
   ],
   "materials": [
