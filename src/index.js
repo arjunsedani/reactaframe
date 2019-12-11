@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-// import EventHandling from "./EventHandling"
+import HotSpots from "./HotSpots"
 import * as serviceWorker from './serviceWorker';
 // import 'react-app-polyfill/stable';
 
